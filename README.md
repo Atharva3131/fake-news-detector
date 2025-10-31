@@ -1,8 +1,8 @@
 # 📰 Fake News Detection System
 
 A machine learning project that detects whether a news article is **Real or Fake** using NLP techniques.
-🔗 *Live Demo:* [Click here to try the app]([https://mentalhealthchatbot-atharva.streamlit.app/](https://fake-news-detector-irkgkbwy3cgxlbfxx39s4q.streamlit.app/))
-
+🔗 *Live Demo:* [Click here to try the app]
+([https://mentalhealthchatbot-atharva.streamlit.app/](https://fake-news-detector-irkgkbwy3cgxlbfxx39s4q.streamlit.app/))
 
 ## 🚀 Features
 - Uses TF-IDF + Logistic Regression
